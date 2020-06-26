@@ -15,7 +15,7 @@ View the YouTube tutorial [here](https://youtu.be/WPPcp1kga6g).
 
 To run this tool, follow these simple steps.
 
-1. [Download the tool](https://gitlab.com/JoshuaQuinlan/scalawiz/-/archive/master/scalawiz-master.zip) to your Downloads directory.
+1. Download the tool to your Downloads directory.
 2. Open Finder, find the file and unzip it.
 3. Open Terminal.
 4. Type `cd ~/Downloads/scalawiz-master` and press enter.
