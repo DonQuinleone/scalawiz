@@ -23,4 +23,4 @@ To run this tool, follow these simple steps.
 6. Type `bash install.sh`, press enter and follow instructions.
 
 ## Errors
-If you experience any errors, please send me an email (me@JoshuaQuinlan.co.uk) or [open an Issue](https://gitlab.com/JoshuaQuinlan/scalawiz/-/issues/new).
+If you experience any errors, please send me an email (me@JoshuaQuinlan.co.uk) or [open an Issue](https://github.com/JoshuaQuinlan/scalawiz/issues/new).
