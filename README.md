@@ -14,4 +14,4 @@ To run this tool, follow these simple steps.
 6. Type `bash install.sh`, press enter and follow instructions.
 
 ## Errors
-If you experience any errors, please send me an email (me@JoshuaQuinlan.co.uk) or open an Issue request on GitHub.
+If you experience any errors, please send me an email (me@JoshuaQuinlan.co.uk) or open an Issue request.
