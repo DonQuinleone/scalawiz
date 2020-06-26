@@ -6,7 +6,7 @@ View the YouTube tutorial [here](https://youtu.be/WPPcp1kga6g).
 
 To run this tool, follow these simple steps.
 
-1. Download the tool to your Downloads directory from https://github.com/JoshuaQuinlan/scala-auto-install/archive/master.zip
+1. Download the tool to your Downloads directory.
 2. Open Finder, find the file and unzip it.
 3. Open Terminal.
 4. Type `cd ~/Downloads/scala-auto-install-master` and press enter.
